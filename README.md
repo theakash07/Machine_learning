@@ -10,7 +10,7 @@ In this GitHub repository, you can expect to find a variety of projects, code, a
 
 If you share my interests or want to collaborate on projects, feel free to connect with me on LinkedIn or drop me a message. I'm always open to learning from others and sharing knowledge.
 
-[LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/akash-kumar-b30506267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ))
+[LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/akash-kumar-b30506267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 
 ## Projects and Contributions
 
