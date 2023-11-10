@@ -19,7 +19,7 @@ I'm actively working on building my portfolio and contributing to the open-sourc
 
 I'm eager to connect with fellow learners, developers, and AI enthusiasts. If you have any questions, suggestions, or just want to say hi, don't hesitate to reach out. Let's learn and grow together!
 
-[Email](theakash.bussiness07@gmail.com)
+[Email (theakash.bussiness07@gmail.com) ]
 
 Happy coding!
 
