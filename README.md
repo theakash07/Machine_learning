@@ -10,7 +10,8 @@ In this GitHub repository, you can expect to find a variety of projects, code, a
 
 If you share my interests or want to collaborate on projects, feel free to connect with me on LinkedIn or drop me a message. I'm always open to learning from others and sharing knowledge.
 
-[LinkedIn][https://www.linkedin.com/in/your-linkedin-profile] (https://www.linkedin.com/in/akash-kumar25/)
+[LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+
 ## Projects and Contributions
 
 I'm actively working on building my portfolio and contributing to the open-source community. You can explore my projects and contributions in the respective repositories.
@@ -19,7 +20,6 @@ I'm actively working on building my portfolio and contributing to the open-sourc
 
 I'm eager to connect with fellow learners, developers, and AI enthusiasts. If you have any questions, suggestions, or just want to say hi, don't hesitate to reach out. Let's learn and grow together!
 
-[Email (theakash.bussiness07@gmail.com) ]
+[Email](mailto:theakash.business07@gmail.com)
 
 Happy coding!
-
