@@ -10,6 +10,7 @@ In this GitHub repository, you can expect to find a variety of projects, code, a
 
 If you share my interests or want to collaborate on projects, feel free to connect with me on LinkedIn or drop me a message. I'm always open to learning from others and sharing knowledge.
 
+
 [LinkedIn](https://www.linkedin.com/in/akash-kumar25/)
 
 ## Projects and Contributions
